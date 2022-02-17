@@ -1,0 +1,8 @@
+ Hard Skills
+      
+ Codes HTTP
+ GitBash
+ structure JSON
+ Dev Tools
+ API Testing
+ Postman
