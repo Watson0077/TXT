@@ -1,0 +1,487 @@
+    1  watson19941705
+    2  500
+    3  pwd
+    4  ls
+    5  ls la
+    6  ls-l
+    7  ls-la
+    8  ls-le
+    9  ls-la
+   10  cd Videos
+   11  mkdir group_27
+   12  pwd
+   13  pwd
+   14  ls -la
+   15  sd group_27
+   16  mkdir group_27
+   17  ls -la
+   18  sd group_27
+   19  cd group_27
+   20  mkdir item_1
+   21  mkdir item_2
+   22  cd item_2
+   23  touch j_file.json
+   24  ls -la
+   25  vim j_file.json 
+   26  ls -la
+   27  cat j_
+   28  cat j_file_1.json
+   29  ls -la
+   30  cat j_file_1,json
+   31  cat j_file_1.json
+   32  vim j_file.json 
+   33  cd :
+   34  cd ..
+   35  cd group_27
+   36  cd-
+   37  touch j_item.json
+   38  ls
+   39  vim j_item.json 
+   40  vim j_item.json 
+   41  ls -la
+   42  cat j_item.json 
+   43  mkdir f_1
+   44  mkdir f_2
+   45  mkdir ff_1
+   46  cd ff_1/
+   47  mkdir fff_1
+   48  cd..
+   49  cd ..
+   50  cd ../..
+   51  ls -la
+   52  cp j_item.json
+   53  cp j_item.json f_1/j_item.json
+   54  cd f_1
+   55  cd ..
+   56  ls -la
+   57  mv f_1/j_item.json f_2/ff_1/fff_1/j_item.json
+   58  cd f_1
+   59  ls -la
+   60  mkdir f_1
+   61  rm -rf f_2
+   62  rm -rf group_27
+   63  mkdir nn_1 nn_2 nn_3
+   64  mkdir nn 1 nn 2 nn 3
+   65  cd ..
+   66  mkdir nn 1 nn 2 nn 3
+   67  cd ..
+   68  ls -la
+   69  pwb
+   70  pwd
+   71  pwd group27
+   72  pwd j_file
+   73  pwd
+   74  mkdir Lesson1
+   75  cd Lesson1
+   76  mkdir -p{Lesson1 Lesson2 Lesson3}
+   77  cd ..
+   78  mkdir -Lesson1,Lesson2,Lesson3
+   79  mkdir -{Lesson1,Lesson2,Lesson3}
+   80  mkdir -Lesson2
+   81  mkdir Lesson2
+   82  mkdir Lesson3
+   83  cd ..
+   84  cd .
+   85  cd Lesson1
+   86  pwd
+   87  mkdir QA Courses27
+   88  cd QA Courses27
+   89  mkdir TEST_1
+   90  cd TEST_1
+   91  mkdir 1
+   92  mkdir 2
+   93  mkdir 3
+   94  cd 1
+   95  touch 1_1
+   96  touch 1_1.txt
+   97  touch 2_2.txt
+   98  touch 3_3.txt
+   99  touch 4_4.json
+  100  touch 5_5.json
+  101  cd ../..
+  102  mkdir TEST_1
+  103  cd TEST_1
+  104  cd TEST_1 1
+  105  cd 1
+  106  mkdir F1
+  107  mkdir F2
+  108  mkdir F3
+  109  ls
+  110  ls -la
+  111  vim 1_1
+  112  vim 1_1
+  113  pwd
+  114  cd TEST_1
+  115  pwd
+  116  ls -la
+  117  ls -f
+  118  ls
+  119  cd TEST_1 1
+  120  cd 1
+  121  pwd
+  122  ls
+  123  ls -la
+  124  cd 1_1
+  125  vim 1_1
+  126  vim 1_1.txt
+  127  pwd
+  128  
+  129  pwd
+  130  mkdir Lesson1
+  131  cd Lesson1
+  132  mkdir F1
+  133  mkdir F2
+  134  mkdir F3
+  135  cd F1
+  136  touch l1.txt
+  137  touch l2.txt
+  138  touch l3.txt
+  139  touch l4.json
+  140  touch 15.json
+  141  mkdir P1
+  142  mkdir P2
+  143  mkdir P3
+  144  ls -la
+  145  vim l1.txt
+  146  ll
+  147  cd ..
+  148  mv F1/l1.txt F2
+  149  mv F1/l2.txt F3
+  150  cp F1/l5.json F2
+  151  cp F1/l4.json F2
+  152  cp F1/l3.txt F3
+  153  find -l3.txt
+  154  find. -l3
+  155  find. -l3.txt
+  156  find l3.txt
+  157  find l4.json
+  158  find P1
+  159  cd F1
+  160  find l4.json
+  161  grep -f l4.json C:/
+  162  grep -ef l1.txt C:/
+  163  cd ..
+  164  grep -ef l1.txt C:/
+  165  grep -f l1.txt C:/
+  166  cd F2
+  167  grep -f l1.txt
+  168  ls -la
+  169  grep l4.json
+  170  grep l4.json
+  171  grep F1*
+  172  grep F1 *
+  173  grep l4.json *
+  174  grep l4 *
+  175  cd F1
+  176  ls -la
+  177  grep l4.json 
+  178  grep l4.json *
+  179  ls -la
+  180  grep l3
+  181  grep l3 *
+  182  grep F1 *
+  183  grep Lesson1
+  184  grep -Lesson1
+  185  cd ..
+  186  grep -r F1 Lesson1
+  187  grep F1 *
+  188  cd F1
+  189  grep F1
+  190  grep -r F1 *
+  191  grep -r l3 *
+  192  ls -la
+  193  grep -r 3 *
+  194  grep l3
+  195  grep -r l3
+  196  grep -r l3 *
+  197  grep Test F1/*
+  198  cd ..
+  199  grep Test F1/*
+  200  ls -R/la
+  201  ls -Rla
+  202  ls -t
+  203  ls -lat
+  204  cat l1.txt
+  205  cd F2
+  206  cat l1.txt
+  207  cat > g2.txt
+  208  ls -la
+  209  cat -n g2.txt
+  210  histori > hist_1.txt
+  211  history > hist_1.txt
+  212  heat g2.txt
+  213  head g2.txt
+  214  tail g2.txt
+  215  less g2.txt
+  216  date g2.txt
+  217  date g2.txt
+  218  date
+  219  history > his_1.txt
+  220  pwd
+  221  cd Lesson1
+  222  curl [200~http://162.55.220.72:5005/terminal-hw-request~
+  223  curl http://162.55.220.72:5005/terminal-hw-request~
+  224  pwd
+  225  cd Lesson1
+  226  kurl http://162.55.220.72:5005/terminal-hw-request
+  227  curl http://162.55.220.72:5005/terminal-hw-request
+  228  url http://162.55.220.72:5005/terminal-hw-request
+  229   curl http://162.55.220.72:5005/terminal-hw-request
+  230  curl  http://162.55.220.72:5005
+  231  curl http://162.55.220.72:5005/terminal-hw-request
+  232  curl -0 http://162.55.220.72:5005/terminal-hw-request
+  233  curl http://162.55.220.72:5005/get_method?name="Dmitriy"&age="28",result"::["Your_String","Your_number"]
+  234  curl http://162.55.220.72:5005/get_method?name="Dmitriy"&age="28",result"::["Your_String","Your_number"]
+  235  q
+  236  [1]
+  237  curl " http://162.55.220.72:5005/get_method?name=Dmitriy&age=28"
+  238  curl "http://162.55.220.72:5005/get_method?name=Dmitriy&age=28"
+  239  cd Lesson1
+  240  cd F1
+  241  touch 15.json l3.txt l4.json;
+  242  mkdir P1 P2 P3;
+  243  ls -la
+  244  pwd
+  245  ./ Script 1
+  246  ./Script 1
+  247  ./ Script 1
+  248  зцв
+  249  pwd
+  250  nano Lesson1
+  251  /Script1
+  252  cd Lesson1
+  253  /Script1
+  254  ./Script1
+  255  cd C:\Users\watso
+  256  cd C:\Users\watso Script1
+  257  c ..
+  258  ./Script1
+  259  c .
+  260  cd C:\Users\watso
+  261  cd ..
+  262  ./Script1
+  263  ./Script 1
+  264  cd C:\Users\watso Script 1
+  265  cd Lesson1
+  266  ./Script 1
+  267  ./ Script 1
+  268  cd ..
+  269  ./ Script 1
+  270  ls-la
+  271  ls -la
+  272  ./Script 1
+  273  ll
+  274  ./ Script 1
+  275  ./ Script 1
+  276  ./Script 1
+  277  ./'Script 1'*
+  278  chmod ugo+x Script 1
+  279  bash Script 1
+  280  bash <Script 1>
+  281  sh Script 1
+  282  sh Script 1.sh
+  283  ./ Script 1.sh
+  284  find Sc*
+  285  cd Script 1
+  286  cd <Script 1
+  287  ./ Script 1
+  288  bash script
+  289  bash Script 1
+  290  ./ Script
+  291  ll
+  292  bash Script 1.sh
+  293  ./ Script 1
+  294  ./ Script 1.txt
+  295  ./ Script 1 sh
+  296  ./ Script 1 
+  297  ./ Script 1.sh 
+  298  ./Script 1
+  299  ./ Script 1
+  300  nano
+  301  ./ggg.sh
+  302  ./ggg
+  303  nano
+  304  ./hhh
+  305  history > his_2.txt
+  306  group_27
+  307  Lesson1
+  308  cd Lesson1
+  309  mkdir Git clone
+  310  git clone https://github.com/Watson0077/group_27.git
+  311  ls -la
+  312  git staTUS
+  313  git status
+  314  cd GIT
+  315  git status
+  316  vim user.txt
+  317  cd C:/C:\Users\watso\Lesson1
+  318  pwd
+  319  cd Lesson1
+  320  cd clone
+  321  github clone https://github.com/Watson0077/group_27.git
+  322  git clone https://github.com/Watson0077/group_27.git
+  323  git clone https://github.com/Watson0077/QA-Group_27.git
+  324  ls -la
+  325  cd QA-Group_27/
+  326  git status
+  327  git add  Kurdiyash_HW_1_Terminal.txt.txt
+  328  git status
+  329  git add .
+  330  git commit -m "add 1 file"
+  331  git push
+  332  https://github.com/Watson0077/JSON.git
+  333  git clone https://github.com/Watson0077/JSON.git 
+  334  vim 
+  335  nano
+  336  ls -la
+  337  git status
+  338  git add.swp
+  339          JSON/
+  340          "\357\200\242new.json\357\200\242"
+  341  git add JSON/
+  342          "\357\200\242new.json
+  343  git add new.json
+  344  git status
+  345  git add new.json
+  346  git add .swp
+  347          "\357\200\242new.json\357\200\242"
+  348  git status
+  349  git commit new.json
+  350  git status
+  351  git add "new.json"
+  352  git status
+  353  cd
+  354  cd /OneDrive/Рабочий стол/IT'/ДЗ (Vadim Ksendzov)/Новая папка
+  355  git status
+  356  cdстол/IT'/ДЗ (Vadim Ksendzov)/Новая папка
+  357  git status QA-Group_27
+  358  git status
+  359  git status
+  360  ls -la
+  361  nano "new.json"
+  362  pwd
+  363  start .
+  364  nano new.json
+  365  git add new.json 
+  366  git status
+  367  git confit -m "add 3 files"
+  368  git status
+  369  git push
+  370  git status
+  371  git push
+  372  git pull
+  373  git push
+  374  git status
+  375  git push
+  376  git status
+  377  git add new.json
+  378  git status
+  379  git pull
+  380  git push
+  381  cd JSON
+  382  git status
+  383  gitadd
+  384  git add
+  385  git pull
+  386  git push
+  387  ls -la
+  388  git commit -m "add 1 file"
+  389  git add
+  390  git add new.json
+  391  git pull
+  392  git push
+  393  nano new.json
+  394  git status
+  395  git add
+  396  git status
+  397  git add .
+  398  git status
+  399  git commit -m "add 1 file"
+  400  git push
+  401  vim new.json
+  402  git status
+  403  git add .
+  404  git commit -m " add 1 file"
+  405  git push
+  406  git commit -m "add 1 file"
+  407  git status
+  408  git push
+  409  git pull
+  410  git push
+  411  nano new.json
+  412  git add .
+  413  git status
+  414  git commit -m "file 1"
+  415  git push
+  416  nano  preferences.json
+  417  nano skills.json
+  418  git status
+  419  git add .
+  420  git status
+  421  git pull
+  422  git push
+  423  git commit -m "add 2 files"
+  424  git pull
+  425  git push
+  426  git status
+  427  git push
+  428  git pull
+  429  git push
+  430  history his2022.txt
+  431  history>>history2.txt
+  432  git clone https://github.com/Watson0077/XML.git
+  433  nano new.xml
+  434  git commit -m "add 1 file"
+  435  git status
+  436  cd XML
+  437  git status
+  438  nano new.xml
+  439  git status
+  440  git commit -m "add 1 file"
+  441  git add .
+  442  git status
+  443  git commit -m "add 1 file"
+  444  git pull
+  445  git push
+  446  nano new.xml
+  447  nano new.xml
+  448  git clone https://github.com/Watson0077/TXT.git
+  449  cd..
+  450  cd ..
+  451  cd TXT
+  452  cd TXT
+  453  cd TXT
+  454  cd XML
+  455  cd TXT
+  456  nano new.txt
+  457  git add .
+  458  git status
+  459  git commit -m "add 1 file"
+  460  git push
+  461  nano new.txt
+  462  git status
+  463  git add .
+  464  git commit -m "add 1 file"
+  465  git push
+  466  nano preferences.txt
+  467  nano skills.txt
+  468  git status
+  469  git add .
+  470  git commit -m "add 2 files"
+  471  git push
+  472  git status
+  473  git add .
+  474  git push
+  475  git commit -m "add 1 file"
+  476  git push
+  477  git pull
+  478  git push
+  479  histiry<<his2023.txt
+
+
+  480  histiry <<his.txt
+
+
+  481  hisrory >> history3.txt
+  482  hisrory >>history3.txt
+  483  history>>history4.txt
